@@ -1,5 +1,5 @@
 public class PlayerInventory{
-    private int healthPotion,manaPotion,healthWithItems,damageWithItems;
+    private int healthPotion,manaPotion,healthWithItems,damageWithItems,wolfTooth;
     private boolean trophy;
     public PlayerInventory(){
         healthPotion=0;
